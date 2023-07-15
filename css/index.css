@@ -1,0 +1,13 @@
+section{background-image: url(../images/work-2.jpg);
+background-position: center center;
+background-size: cover;
+height: 100vh;
+}
+h1{    font-size: 80px;
+    font-family: Impact;
+}
+button{
+    width:25%;
+    height: 15%;
+}
+.room{width:80% ;}
